@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BeyondARTest</string>
+    <string name="title_activity_maps_sample">Map</string>
+    <string name="title_activity_beyond_arloc_man_map">Map</string>
+    <string name="title_activity_camera_with_google_maps">Map</string>
+    <string name="title_activity_my_maps">Map</string>
+</resources>
